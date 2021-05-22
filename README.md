@@ -10,7 +10,9 @@ https://docs.nvidia.com/deeplearning/tensorrt/sample-support-guide/index.html
 
 ### TensorRT Custom Plugins
 https://github.com/NVIDIA/TensorRT/tree/master/plugin
+
 https://docs.nvidia.com/deeplearning/tensorrt/developer-guide/index.html#example1_add_custlay_c
+
 https://docs.nvidia.com/deeplearning/tensorrt/developer-guide/index.html#add_custom_layer_python
 
 ### Webinar:
@@ -44,9 +46,15 @@ Website | Developers Guide | TLT User Guide | Getting started
 
 ### GTC Webinars
 [CWES1127] Transfer Learning Toolkit and DeepStream SDK for Vision AI/Intelligent Video Analytics ( Live on 4/15, 2pm PT)
+
 [S32797] Train Smarter, not Harder, with NVIDIA Pre-Trained Models and Transfer Learning Toolkit 3.0, by NVIDIA
+
 [S31437] Boost Video Analytics Throughput by 6x Using Triton Inference Server and Deepstream SDK, by Dell EMC4.
+
 [SS32770] Driving Operation Efficiency with NVIDIA Transfer Learning Toolkit, Pre-Trained Models, and DeepStream SDK, by Adlink5.
+
 [S31321] Maximize Stream Density for Multi-Frame AI-Powered Video Analytics using NVIDIA DeepStream SDK, by Viisights6.
+
 [S31215] Object Detection at 1770 FPS: Designing CNNs that Scale Using DeepStream SDK, by AdagradAI7.
+
 [S32232] Real-Time Neural Network Video Analysis of Factory Floors with DeepStream, by Drishti Technologies
