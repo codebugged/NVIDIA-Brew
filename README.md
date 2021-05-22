@@ -15,7 +15,9 @@ https://docs.nvidia.com/deeplearning/tensorrt/developer-guide/index.html#add_cus
 
 ### Webinar:
 Optimizing TensorRt Conversion for Real-Time Inference On Autonomous Vehicles [S22198]
+
 Part 1: Optimizing DNN inference using CUDA and TensorRT on DRIVE AGX
+
 Part 2: Extending NVIDIA TensorRT with custom layers using CUDA
 
 ### DeepStream + TLT:
